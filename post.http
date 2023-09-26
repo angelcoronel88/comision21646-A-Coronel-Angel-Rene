@@ -6,9 +6,9 @@ Post http://localhost:3000/api/posts
 Content-Type: application/json
 
 {
-    "title": "The whale",
-    "content": "Brendan Fraser protagoniza una actuacion maravillosa en todo sentido. Su personaje genera muchos estados, ansiedad, impotencia, rabia, desasosiego, angustia y por sobre todo ¡Muy mala suerte! Es una muy buena pelicula, sin duda una de las mejores interpretaciones de Fraser, mas que merecido su oscar!",
-    "urlLink": "https://pics.filmaffinity.com/La_ballena_The_Whale-293958603-large.jpg"
+    "title": "Nuevo Post",
+    "content": "posteo",
+    "urlLink": "www.url.com"
 }
 
 ### PARA MODIFICAR POST
