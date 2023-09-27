@@ -1,10 +1,13 @@
 #img-card {
     width: 1360px; 
-    height: 300px;
-    float: left;
+    height: 600px;
     
 }
 
 #color-p {
     color: red;
+}
+
+#main {
+    background-color: blueviolet;
 }
